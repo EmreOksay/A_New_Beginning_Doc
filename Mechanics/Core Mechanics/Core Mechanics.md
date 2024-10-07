@@ -1,4 +1,4 @@
--[[Simple Combat]]
--[[Profession System]]
--[[Crafting]]
--[[Town Building]]
+- [[Simple Combat]]
+- [[Profession System]]
+- [[Crafting]]
+- [[Town Building]]

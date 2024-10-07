@@ -1,3 +1,3 @@
--[[Story]]
--[[Mechanics]]
--[[Assets]]
+- [[Story]]
+- [[Mechanics]]
+- [[Assets]]

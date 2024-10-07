@@ -1,0 +1,4 @@
+- Blacksmith's forge
+- Alchemist's house
+- Merchant's shop
+- 

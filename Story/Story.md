@@ -1,5 +1,5 @@
--[[Storyboard]]
--[[NPC's]]
--[[Town History]]
--[[World History]]
+- [[Storyboard]]
+- [[NPC's]]
+- [[Town History]]
+- [[World History]]
 

@@ -1,3 +1,3 @@
--[[Core Mechanics]]
--[[Side Mechanics]]
+- [[Core Mechanics]]
+- [[Side Mechanics]]
 

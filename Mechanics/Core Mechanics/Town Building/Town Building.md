@@ -1,4 +1,4 @@
--[[Appeal]]
--[[Specialized Buildings]]
--[[General Buildings]]
--[[Decorative Buildings]]
+- [[Appeal]]
+- [[Specialized Buildings]]
+- [[General Buildings]]
+- [[Decorative Buildings]]

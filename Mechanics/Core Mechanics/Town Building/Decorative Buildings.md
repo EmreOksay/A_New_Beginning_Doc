@@ -1,0 +1,4 @@
+- Trees
+- Roads
+- Statues
+- Lamp posts 
