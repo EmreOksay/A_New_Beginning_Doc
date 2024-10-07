@@ -1,0 +1,1 @@
+The combat of the game is simple top down combat. At first the player will only have access to a basic sword but as the game progress and the player opens new upgrades and materials they will have access to new melee weapons alongside with ranged options and magic options.

@@ -1,0 +1,5 @@
+-[[Mining]]
+-[[Wood Cutting]]
+-[[Fishing]]
+-[[Combat]]
+-[[Foraging]]
